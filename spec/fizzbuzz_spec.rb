@@ -13,4 +13,9 @@ describe 'fizzbuzz' do
     expect(fizzbuzz(5)).to eq "buzz"
   end
 
+  it 'returns "num" when any other number is passed' do
+    number = 1
+    expect(fizzbuzz(number)).to eq number
+  end
+
 end
