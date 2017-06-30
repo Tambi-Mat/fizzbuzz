@@ -18,7 +18,7 @@ The goal of the project was to introduce the developers to **Test Driven Develop
 
 ## How to use
 
-From the fizzbuzz directory:
+From the fizzbuzz directory, which contains the production code:
 *ruby ./lib/fizzbuzz.rb*
 
 ## Contributors
