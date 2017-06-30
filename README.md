@@ -12,7 +12,7 @@ Fizzbuzz is a simple coding challenge, often described as a code kata. The objec
 
 The goal of the project was to introduce the developers to **Test Driven Development** (TDD) and Pair Programming. RSpec was used as the testing tool.
 
-## Test Script
+## Test Script
 
 *rspec ./spec/fizzbuzz_spec.rb*
 
