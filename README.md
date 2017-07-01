@@ -23,4 +23,4 @@ From the fizzbuzz directory, which contains the production code:
 
 ## Contributors
 
-[Yuliya Nedyalkova](https://github.com/meta-morpho-sys) and Tambi Matowanyika. We paired up using [Screenhero](https://screenhero.com/)....with a couple of hiccups in the beginning however we got there in the end!
+[Yuliya Nedyalkova](https://github.com/meta-morpho-sys) and [Tambi Matowanyika](https://github.com/Tambi-Mat). We paired up using [Screenhero](https://screenhero.com/)....with a couple of hiccups in the beginning however we got there in the end!
